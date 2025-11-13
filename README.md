@@ -14,12 +14,6 @@ COMPLETED EXERCISES:
 ----------------------------------------
 
 KNOWN ISSUES:
-- Learned how to use PreparedStatement to prevent SQL injection and handle dynamic parameters.
-- Applied GET/POST request handling for form submission and URL-based search queries.
-- Implemented LIKE operator and wildcard searches in SQL for partial text matching.
-- Used regular expressions (Regex) for email and student code validation.
-- Practiced LIMIT/OFFSET pagination and basic calculation of total pages.
-- Improved UI/UX with JavaScript (auto-hide messages, button states) and responsive CSS design.
 
 EXTRA FEATURES:
 - Success/Error messages auto-hide after 3 seconds.
