@@ -75,11 +75,7 @@
                 var btn = form.querySelector('button[type="submit"]');
                 btn.disabled = true;
                 btn.textContent = 'Processing...';
-               setTimeout(function() {
-        form.submit();
-    }, 100000); // 2000ms = 2 giây
-    
-    return false; //
+                return true;
             }
         </script>
 
